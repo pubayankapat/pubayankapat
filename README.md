@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Dynamic Graph clustering**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Laravel-v12**
 
-- 💬 Ask me about **JAVA,SQL,PYTHON,PHP**
+- 💬 Ask me about **JAVA,SQL,PHP,PYTHON**
 
 - 📫 How to reach me **pubayankapat@gmail.com**
 
