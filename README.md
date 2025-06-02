@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Dynamic Graph clustering**
 
-- 🌱 I’m currently learning **Laravel-v12**
+- 🌱 I’m currently learning **Angular JS**
 
-- 💬 Ask me about **JAVA,SQL,PHP,PYTHON**
+- 💬 Ask me about **JAVA,SQL,JAVASCRIPT,PHP,PYTHON**
 
 - 📫 How to reach me **pubayankapat@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1btB1qpm8Xm-nUjG4dCNdHdP3H-TlAFzL/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1btB1qpm8Xm-nUjG4dCNdHdP3H-TlAFzL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
