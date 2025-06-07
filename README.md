@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Dynamic Graph clustering**
 
-- 🌱 I’m currently learning **Angular JS**
+- 🌱 I’m currently learning **Angular JS & Nest Js,Docker**
 
 - 💬 Ask me about **JAVA,SQL,JAVASCRIPT,PHP,PYTHON**
 
