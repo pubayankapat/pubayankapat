@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **pubayankapat@gmail.com**
 
-- 📄 Know about my experiences [[RESUME](https://drive.google.com/file/d/1SUFJPGZ304__-PVkcm8eFwiApk5WBOEe/view?usp=sharing)]([RESUME](https://drive.google.com/file/d/1SUFJPGZ304__-PVkcm8eFwiApk5WBOEe/view?usp=sharing))
+- 📄 Know about my experiences [[RESUME](https://drive.google.com/file/d/1SUFJPGZ304__-PVkcm8eFwiApk5WBOEe/view?usp=sharing)]
 
 - ⚡ Fun fact **I think i am not funny.😉😉**
 
