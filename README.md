@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Dynamic Graph clustering](https://github.com/pubayankapat/Mca4thSemFinal.git)
 
-- 🌱 I’m currently learning **Angular & Nest Js**
+- 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking for help with [Realtime chat application](https://github.com/pubayankapat/Realtime_chat_app.git)
 
