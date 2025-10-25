@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pubayan Kapat</h1>
-<h3 align="center">Learner in the field of Computer Science.I have keen interest in Web Development.</h3>
+<h3 align="center">Learner in the field of Computer Science.I have keen interest in Web Development and enthusiast towards AI/ML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pubayankapat&label=Profile%20views&color=0e75b6&style=flat" alt="pubayankapat" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@pubayankapat" target="blank"><img src="https://img.shields.io/twitter/follow/@pubayankapat?logo=twitter&style=for-the-badge" alt="@pubayankapat" /></a> </p>
 
-- 🔭 I’m currently working on [Real Time Chat App](https://github.com/pubayankapat/RealTimeChatApp)
+- 🔭 I’m currently working on [Real Time Chat App[MERN]](https://github.com/pubayankapat/RealTimeChatApp)
 
 - 🌱 I’m currently learning **Angular**
 
