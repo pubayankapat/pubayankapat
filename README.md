@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Real Time Chat App[MERN]](https://github.com/pubayankapat/RealTimeChatApp)
 
-- 🌱 I’m currently learning **REACT Native**
+- 🌱 I’m currently learning **REACT**
 
 - 🤝 I’m looking for help with [Realtime chat application](https://github.com/pubayankapat/Realtime_chat_app.git)
 
