@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/@pubayankapat" target="blank"><img src="https://img.shields.io/twitter/follow/@pubayankapat?logo=twitter&style=for-the-badge" alt="@pubayankapat" /></a> </p>
 
-- 🔭 I’m currently working on [Real Time Chat App[MERN]](https://github.com/pubayankapat/RealTimeChatApp)
+- 🔭 I’m currently working on [Api_monitoring_system]()
 
 - 🌱 I’m currently learning **REACT**
 
-- 🤝 I’m looking for help with [Realtime chat application](https://github.com/pubayankapat/Realtime_chat_app.git)
+- 🤝 I’m looking for help with [Api_monitoring_system]()
 
 - 👨‍💻 All of my projects are available at [#](#)
 
-- 💬 Ask me about **JAVASCRIPT,JAVA,SQL,PYTHON**
+- 💬 Ask me about **JAVASCRIPT,JAVA,SQL,MONGO DB,PYTHON**
 
 - 📫 How to reach me **pubayankapat@gmail.com**
 
-- 📄 Know about my experiences [[RESUME]()]
+- 📄 Know about my experiences [[RESUME](https://drive.google.com/file/d/1vSRbF8DBNNo5U_pSe7_wf2x5iwp7Q3G8/view?usp=sharing)]
 
 - ⚡ Fun fact **I think i am not funny.😉😉**
 
